@@ -1,4 +1,4 @@
-Exploring NYC Public Schools test result scores, exploring and manipulate the dataset using pandas to uncover insights that shed light on the educational landscape of the city. 
+Exploring NYC Public Schools test result scores, exploring and manipulating the dataset using pandas to uncover insights that shed light on the educational landscape of the city. 
 
  Answering three key questions about New York City (NYC) public school SAT performance:
       1- Finding schools with the best math scores.
